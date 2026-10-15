@@ -341,7 +341,7 @@ format-only edits, whole-row/column sources, shifts, copy/deletion and undo/redo
 package/SDK diagnostics; unchanged definitions and records retain their bytes. The real browser
 draft/recovery hooks keep a source-edit refresh request and its notice. Two samples open in
 LibreOffice with the same two-page counts. These are focused measurements, separate from the frozen
-full-corpus figures above; The batch-3 Excel samples are accepted. Reports:
+full-corpus figures above; the batch-3 Excel samples are accepted. Reports:
 `~/corpora/results/review-fixes-2026-10-09/current-pivots/`.
 
 ### Threaded comments: edit behavior
