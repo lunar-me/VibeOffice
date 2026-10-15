@@ -236,7 +236,7 @@ When it's done
   picture (no image for blank pages, cropping, lossless pictures) would come with it.
 - Quire on a canvas, and our own layout engine ("Project Re:Layout", 2026-10-15): not planned; Quire stays on the
   DOM. Reopen only if most of the corpus files whose page count differs from Word's turn out to differ because of
-  line breaking CSS can't express.
+  line breaking that CSS can't express.
 - **Later, if wanted:** vector borders, shading, shapes and charts; tagged PDF; PDF/A; the source `.docx` embedded on
   request.
 - **Belongs to the layout plan, not this one** (todos/QUIRE_LAYOUT_ALIGNMENT.md, not added there yet):
